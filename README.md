@@ -1,4 +1,4 @@
-# 微派管理系统架构文档
+# 微派管理系统架构方案
 
 随着公司业务的发展，后台管理系统数目众多，有以下痛点：
 
@@ -14,8 +14,10 @@
 - Auth 统一鉴权平台：提供众多管理系统的权限控制
 - Template 通用管理系统模板：制定了管理系统代码标准
 
-各部分的详细使用，参考以下文档：
+各部分的详细使用，参考以下文档。
 
-- [SSO 单点登录系统](sso/README.md)
-- [Auth 统一鉴权平台](auth/README.md)
-- [Template 通用管理系统模板](template/README.md)
+### [SSO 单点登录系统](sso/README.md)
+
+### [Auth 统一鉴权平台 未完成](auth/README.md)
+
+### [Template 通用管理系统模板 开发中](template/README.md)
