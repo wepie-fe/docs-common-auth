@@ -14,10 +14,10 @@
 - Auth 统一鉴权平台：提供众多管理系统的权限控制
 - Template 通用管理系统模板：制定了管理系统代码标准
 
-各部分的详细使用，参考以下文档。
+各部分的详细使用，参考以下文档：
 
-### [SSO 单点登录系统](sso/README.md)
+## [SSO 单点登录系统](sso/README.md)
 
-### [Auth 统一鉴权平台 未完成](auth/README.md)
+## [Auth 统一鉴权平台 未完成](auth/README.md)
 
-### [Template 通用管理系统模板 开发中](template/README.md)
+## [Template 通用管理系统模板 开发中](template/README.md)
