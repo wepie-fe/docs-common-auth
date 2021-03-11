@@ -8,7 +8,7 @@
 
 ![process](https://wepie-fe.github.io/docs-admin/sso/static/process.png)
 
-## 结构
+## 系统结构
 
 SSO 单点登录系统存在 3 个页面和 1 个接口
 
@@ -100,7 +100,7 @@ SSO 单点登录系统存在 3 个页面和 1 个接口
       }
       ```
 
-## 如何对接
+## 接入系统
 
 ### 入口
 
